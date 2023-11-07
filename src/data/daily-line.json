@@ -1,0 +1,22 @@
+[
+  { "name": "1 jan", "lightBlue": 59, "rns": 216, "signApp": 72 },
+  { "name": "2 jan", "lightBlue": 176, "rns": 166, "signApp": 55 },
+  { "name": "3 jan", "lightBlue": 174, "rns": 119, "signApp": 223 },
+  { "name": "4 jan", "lightBlue": 110, "rns": 143, "signApp": 59 },
+  { "name": "5 jan", "lightBlue": 132, "rns": 196, "signApp": 140 },
+  { "name": "6 jan", "lightBlue": 249, "rns": 209, "signApp": 221 },
+  { "name": "7 jan", "lightBlue": 183, "rns": 107, "signApp": 205 },
+  { "name": "8 jan", "lightBlue": 241, "rns": 132, "signApp": 70 },
+  { "name": "9 jan", "lightBlue": 240, "rns": 169, "signApp": 96 },
+  { "name": "10 jan", "lightBlue": 54, "rns": 60, "signApp": 71 },
+  { "name": "11 jan", "lightBlue": 224, "rns": 179, "signApp": 246 },
+  { "name": "12 jan", "lightBlue": 238, "rns": 100, "signApp": 213 },
+  { "name": "13 jan", "lightBlue": 117, "rns": 71, "signApp": 169 },
+  { "name": "14 jan", "lightBlue": 135, "rns": 89, "signApp": 230 },
+  { "name": "15 jan", "lightBlue": 72, "rns": 65, "signApp": 149 },
+  { "name": "16 jan", "lightBlue": 151, "rns": 127, "signApp": 194 },
+  { "name": "17 jan", "lightBlue": 243, "rns": 54, "signApp": 219 },
+  { "name": "18 jan", "lightBlue": 122, "rns": 214, "signApp": 152 },
+  { "name": "19 jan", "lightBlue": 82, "rns": 201, "signApp": 133 },
+  { "name": "20 jan", "lightBlue": 215, "rns": 60, "signApp": 217 }
+]

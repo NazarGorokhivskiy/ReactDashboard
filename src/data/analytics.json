@@ -1,0 +1,52 @@
+{
+  "visitsToday": {
+    "visits": 2000,
+    "logins": 830,
+    "signOut": 0.5,
+    "rate": 4.5
+  },
+  "revenueBreakdown": [
+    {
+      "name": "SMX",
+      "value": 2400
+    },
+    {
+      "name": "Direct",
+      "value": 4567
+    },
+    {
+      "name": "Networks",
+      "value": 1398
+    }
+  ],
+  "appPerformance": [
+    { "name": "SDK", "this": 10, "last": 30 },
+    { "name": "integration", "this": 30, "last": 50 }
+  ],
+  "serverOverview": [
+    {
+      "percentage": 70,
+      "temp": 40,
+      "ghz": 3.3,
+      "chartData": [
+        0, 0, 114, 151, 109, 182, 117, 247, 73, 228, 81, 142, 76, 123, 87
+      ]
+    },
+    {
+      "percentage": 70,
+      "temp": 37,
+      "ghz": 3.3,
+      "chartData": [
+        65, 174, 114, 151, 109, 182, 117, 247, 73, 228, 81, 142, 76, 123, 87
+      ]
+    },
+    {
+      "percentage": 70,
+      "temp": 50,
+      "ghz": 3.3,
+      "chartData": [
+        65, 174, 114, 151, 109, 182, 117, 247, 73, 228, 81, 142, 76, 123, 87
+      ]
+    }
+  ]
+}

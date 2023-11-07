@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Light blue",
+    "value": 4323,
+    "registrations": 830,
+    "bounceRate": -4.5
+  },
+  {
+    "name": "Sing App",
+    "value": 754,
+    "registrations": 30,
+    "bounceRate": 2.5
+  },
+  {
+    "name": "RNS",
+    "value": 1025,
+    "registrations": 230,
+    "bounceRate": -21.5
+  }
+]
