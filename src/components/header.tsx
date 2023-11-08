@@ -18,7 +18,11 @@ import {
 import avatar from "../assets/avatar.png";
 import SettingsMenu from "./SettingsMenu";
 
-export default function Header() {
+type HeaderProps = {
+  toggleSidebar: () => void;
+};
+
+export default function Header({ toggleSidebar }: HeaderProps) {
   return (
     <Paper
       sx={{
@@ -28,7 +32,7 @@ export default function Header() {
     >
       <Stack direction="row" p={1.5} justifyContent="space-between">
         <Stack direction="row" alignItems="center">
-          <IconButton>
+          <IconButton onClick={toggleSidebar}>
             <DehazeIcon />
           </IconButton>
           <IconButton>
